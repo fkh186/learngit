@@ -8,3 +8,6 @@ Git has a mutable index called stage.
 
 branch-dev20180206 333
 master aaa
+
+branch-feature1 444
+
