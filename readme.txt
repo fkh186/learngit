@@ -7,3 +7,4 @@ Git has a mutable index called stage.
 2222
 
 branch-dev20180206 333
+master aaa
